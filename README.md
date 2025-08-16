@@ -12,3 +12,5 @@ The evaluation is a file with prediction probabilities for each dog breed of eac
 
 4. Features
 We're dealing with images (unstrucutred data) of 120 different dog breeds ( 120 different classes) . We will use deep learning / transfer learning hopefully . The dataset itself is 10k+ images for the training set and 10k+ images for the test
+
+the submission csv file is what I submitted to Kaggle 
